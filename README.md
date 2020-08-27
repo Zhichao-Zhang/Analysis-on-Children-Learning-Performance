@@ -17,3 +17,6 @@ In front-end, we use HTML, CSS and JavaScript to do visualization. What we show 
 
 ## System procedure: 
 In the respect of system design, we use Flask as our framework to connect the fron-end and back-end. In back-end, we used Python as our primary language, and run the model on datasets, generate ROC cure, then send it to the web in front-end through Flask in Ajax manner.
+
+## Video:
+https://www.youtube.com/watch?v=OzkwU9q3aUw&feature=youtu.be
